@@ -1,0 +1,9 @@
+[package]
+name = "peregrine"
+version = "0.1.0"
+authors = ["Ferris <ferris@ferrisellis.com>"]
+
+[dependencies]
+
+[dev-dependencies]
+rand = "0.5.0"
